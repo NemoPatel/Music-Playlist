@@ -13,6 +13,5 @@ The Java Music Library is an educational project designed to simulate a basic mu
 This section should guide users on how to set up your project. Include steps to clone the repository, navigate into the project directory, and any setup commands they need to run.
 
 ```bash
-git clone https://github.com/yourusername/javamusiclibrary.git
+git clone https://github.com/NemoPatel/javamusiclibrary.git
 cd javamusiclibrary
-// Add setup instructions if any
